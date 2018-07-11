@@ -1,0 +1,4 @@
+name: WoodLogger
+version: 2.0
+author: iLightwood
+main: dev.lightwood.logger.WoodLogger

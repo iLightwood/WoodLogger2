@@ -1,0 +1,20 @@
+MySQL:
+  hostname: 0.0.0.0
+  database: mc_database
+  user: db_master
+  password: db_pass
+SaveLogs:
+  join: true
+  leave: true
+  chat: true
+  death: true
+  kill: true
+  drop: true
+  commands: true
+  placeBlock: false
+  breakBlock: false
+CommandLogsException:
+- login
+- register
+- changepassword
+- recoveryaccount
